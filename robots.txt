@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qesopona.github.io/sitemap/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/jNP/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/akP/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/NGi/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/YSM/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/fNp/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/PCV/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/kXy/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/JiB/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/lhg/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/Rjc/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/jdA/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/bfF/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/AIP/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/Ssf/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/GIb/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/Bqm/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/NnP/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/bdh/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/CgL/sitemap_index.qesopona
+Sitemap: https://qesopona.github.io/lRa/sitemap_index.qesopona
